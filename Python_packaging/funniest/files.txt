@@ -1,0 +1,16 @@
+c:\users\1015203\appdata\local\programs\python\python36\lib\site-packages\funniest-0.1-py3.6.egg\EGG-INFO\dependency_links.txt
+c:\users\1015203\appdata\local\programs\python\python36\lib\site-packages\funniest-0.1-py3.6.egg\EGG-INFO\entry_points.txt
+c:\users\1015203\appdata\local\programs\python\python36\lib\site-packages\funniest-0.1-py3.6.egg\EGG-INFO\not-zip-safe
+c:\users\1015203\appdata\local\programs\python\python36\lib\site-packages\funniest-0.1-py3.6.egg\EGG-INFO\PKG-INFO
+c:\users\1015203\appdata\local\programs\python\python36\lib\site-packages\funniest-0.1-py3.6.egg\EGG-INFO\requires.txt
+c:\users\1015203\appdata\local\programs\python\python36\lib\site-packages\funniest-0.1-py3.6.egg\EGG-INFO\SOURCES.txt
+c:\users\1015203\appdata\local\programs\python\python36\lib\site-packages\funniest-0.1-py3.6.egg\EGG-INFO\top_level.txt
+c:\users\1015203\appdata\local\programs\python\python36\lib\site-packages\funniest-0.1-py3.6.egg\funniest\command_line.py
+c:\users\1015203\appdata\local\programs\python\python36\lib\site-packages\funniest-0.1-py3.6.egg\funniest\text.py
+c:\users\1015203\appdata\local\programs\python\python36\lib\site-packages\funniest-0.1-py3.6.egg\funniest\__init__.py
+c:\users\1015203\appdata\local\programs\python\python36\lib\site-packages\funniest-0.1-py3.6.egg\funniest\__pycache__\text.cpython-36.pyc
+c:\users\1015203\appdata\local\programs\python\python36\lib\site-packages\funniest-0.1-py3.6.egg\funniest\__pycache__\__init__.cpython-36.pyc
+C:\Users\1015203\AppData\Local\Programs\Python\Python36\Scripts\funniest-joke-script.py
+C:\Users\1015203\AppData\Local\Programs\Python\Python36\Scripts\funniest-joke.exe
+C:\Users\1015203\AppData\Local\Programs\Python\Python36\Scripts\markdown_py-script.py
+C:\Users\1015203\AppData\Local\Programs\Python\Python36\Scripts\markdown_py.exe
